@@ -6,12 +6,17 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **my pico device**.  
+This is my journal of the design and building process of **my dev device**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/250).
 
 
-## 10/6/2025 - failed to create the device.  
+## 10/6/2025 6 PM - failed to create the device.  
 
 i spent a while attempting to learn and route a display and some toggle switches to a pico but couldn't figure it out after more and more attempts i thought i had it until i attempted
  to convert to a pcb then i checked to see what difficulties or errors existed and well it was a lot so i restarted for a third time after like 3 hours of work.![1.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0LCJwdXIiOiJibG9iX2lkIn19--24ce5875d4ca0bdb515ff5ebd98634814afc90db/1.jpg)  
+
+## 10/6/2025 8 PM - started fresh with a new base.  
+
+well after having the difficulty with the pico i chose to start fresh using a hackpad as the base but using it for a different purpose.that being said i have struggled due to my software not having the key component so i created a placeholder symbol for the time being but labeled it accordingly.i plan to add a display and toggle switches instead of buttons later but have to get one problem fixed which i don't really understand why its a problem at all tbh but anyway thats what i have done all day hardware is more tedious of a process than i anticipated but i believe it will be a rewarding process.![mail.google.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODA3LCJwdXIiOiJibG9iX2lkIn19--3a50bbc69d3e15d4e4590cbbd361dc01f4f40bf8/mail.google.jpg)
+  
 
