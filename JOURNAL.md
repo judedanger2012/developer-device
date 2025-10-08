@@ -20,3 +20,8 @@ i spent a while attempting to learn and route a display and some toggle switches
 well after having the difficulty with the pico i chose to start fresh using a hackpad as the base but using it for a different purpose.that being said i have struggled due to my software not having the key component so i created a placeholder symbol for the time being but labeled it accordingly.i plan to add a display and toggle switches instead of buttons later but have to get one problem fixed which i don't really understand why its a problem at all tbh but anyway thats what i have done all day hardware is more tedious of a process than i anticipated but i believe it will be a rewarding process.![mail.google.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODA3LCJwdXIiOiJibG9iX2lkIn19--3a50bbc69d3e15d4e4590cbbd361dc01f4f40bf8/mail.google.jpg)
   
 
+## 10/8/2025 - finished rooting the pcb!!!  
+
+over the past 2 evenings i messed around with the schematic to figure out how to root it properly i had struggled trying in several different copies of my pcb but eventually as i looked closer at the problems i could see that it was due to wires interconnecting so i had to shift my component placement to fit this problem eventually after an excruciating two and a half hours i got it rooted with no errors or problems im very happy but here comes the more complicated part publishing to GitHub and figuring out what is necessary for a submission.![1.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTkxLCJwdXIiOiJibG9iX2lkIn19--546854b4cb3365a50ef7cfc410f6459457ca0d88/1.jpg)
+  
+
